@@ -1,7 +1,7 @@
 {
   "name": "nelsonbarrios",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://nelsonbarrios.github.io/Portfolio/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
